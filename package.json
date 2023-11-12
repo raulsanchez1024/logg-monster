@@ -1,8 +1,9 @@
 {
-  "name": "logg-monster",
-  "version": "1.0.0",
+  "name": "@raulsanchez1024/logg-monster",
+  "version": "1.0.01",
   "description": "Log what matters the most",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format:fix": "prettier --write \"**/*.{ts,tsx,js,jsx,md,yml,json}\""
@@ -18,5 +19,13 @@
     "eslint": "^8.53.0",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulsanchez1024/logg-monster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raulsanchez1024/logg-monster/issues"
+  },
+  "homepage": "https://github.com/raulsanchez1024/logg-monster#readme"
 }
