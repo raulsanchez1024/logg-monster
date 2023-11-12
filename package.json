@@ -1,6 +1,6 @@
 {
   "name": "@raulsanchez1024/logg-monster",
-  "version": "1.0.02",
+  "version": "1.0.03",
   "description": "Log what matters the most",
   "main": "build/index.js",
   "types": "build/index.d.ts",
