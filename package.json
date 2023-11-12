@@ -1,9 +1,9 @@
 {
   "name": "@raulsanchez1024/logg-monster",
-  "version": "1.0.01",
+  "version": "1.0.02",
   "description": "Log what matters the most",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format:fix": "prettier --write \"**/*.{ts,tsx,js,jsx,md,yml,json}\""
