@@ -1,0 +1,22 @@
+{
+  "name": "logg-monster",
+  "version": "1.0.0",
+  "description": "Log what matters the most",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format:fix": "prettier --write \"**/*.{ts,tsx,js,jsx,md,yml,json}\""
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "Raul Sanchez Paredes",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
+    "eslint": "^8.53.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}
