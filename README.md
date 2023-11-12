@@ -1,6 +1,6 @@
 # logg-monster
 
-A Javascript package that tracks what matters the most.
+A Javascript package that helps you track what matters the most.
 
 # Installation
 
@@ -25,7 +25,7 @@ $ yarn add logg-monster
 Copy/paste your API key from https://logg.monster/overview
 
 ```typescript
-import { LoggMonster } from 'log-monster';
+import { LoggMonster } from '@raulsanchez1024/logg-monster';
 
 const loggMonster = new LoggMonster(API_KEY);
 ```
