@@ -45,11 +45,3 @@ export class LoggMonster {
     return true;
   }
 }
-
-// const loggMonster = new LoggMonster('hihih');
-
-// loggMonster.track({
-//   event: 'New user created',
-//   emoji: '🎉',
-//   user: 'raul@logg.monster',
-// });
