@@ -25,7 +25,7 @@ $ yarn add logg-monster
 Copy/paste your API key from https://logg.monster/overview
 
 ```typescript
-import { LoggMonster } from '@raulsanchez1024/logg-monster';
+import { LoggMonster } from 'logg-monster';
 
 const loggMonster = new LoggMonster(API_KEY);
 ```
